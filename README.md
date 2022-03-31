@@ -1,1 +1,3 @@
-# harry-potter
+# Personajes aleatorios de Harry Potter
+En el siguiente link encontraras la documentacion referente al programa de personaje de Harry Potter https://rose-amaryllis-f11.notion.site/Harry-Potter-ec20188dc7fe4bf7aa37141e9dcb540e
+![imagen](https://camo.githubusercontent.com/822f669c927ec1fe7b4dc9bfd80963b8ba9b4c2ccece6c1606a5d877da2a049d/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f61636164656d69612d6765656b2d67656e6572616c2d6275636b65742f6d6f64756c6f2d332f6d6f64756c6f5f335f7265746f5f335f312e706e67)
